@@ -16,3 +16,8 @@ Dieses Repository enthält eine Sammlung von kreativen Foto-Aufgaben, die bei ei
 ## Ziel  
 Die Fotobox-Aufgaben sorgen für Abwechslung, lockern die Stimmung auf und machen die Erinnerungsfotos noch spannender und unterhaltsamer.  
 Außerdem helfen sie dabei, dass Gäste **ins Gespräch kommen**, gemeinsam lachen und sich **besser kennenlernen**.  
+
+
+---
+
+ℹ️ Siehe auch: [ANLEITUNG](ANLEITUNG.md) & [DISCLAIMER](DISCLAIMER.md)  
