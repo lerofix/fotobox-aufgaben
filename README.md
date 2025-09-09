@@ -20,4 +20,4 @@ Außerdem helfen sie dabei, dass Gäste **ins Gespräch kommen**, gemeinsam lach
 
 ---
 
-ℹ️ Siehe auch: [ANLEITUNG](ANLEITUNG.md) & [DISCLAIMER](DISCLAIMER.md)  
+ℹ️ Siehe auch: [ANLEITUNG](ANLEITUNG.md) & [DISCLAIMER](DISCLAIMER.md)
